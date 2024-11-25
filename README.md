@@ -1,7 +1,9 @@
-- Hey there, I'm @Dantheman23-coder! 👋
-- I'm all about prompt engineering, program management, and NLP. 👀
-- Currently, I'm brushing up on my prompt design and implementation skills, and I'm also doing consulting on the side. 🌱
-- I'm looking to work with others on open source projects, and I'd love for people to check out my repositories. 💞️
-- Feel free to reach out, I'm always up for a chat! 📫
-- Oh, and about me: I use he/him pronouns, and in my free time I collect vintage pens and iPhones. 😄⚡
-- Feel free to follow and connect on :https://www.linkedin.com/in/danielmaleyai/ or to view and use my GPT's: https://gptstore.ai/creators/user-HIN08zsdEJRhI0Up1vxOdnZa
+I am Dantheman23-coder, a professional with expertise in prompt engineering, program management, and natural language processing.
+
+Currently, I am actively enhancing my prompt design and implementation skills while also providing consulting services. I am eager to collaborate with others on open-source projects and would welcome the opportunity for individuals to explore my repositories.
+
+Please do not hesitate to contact me if you have any inquiries or wish to discuss potential collaborations.
+
+In addition to my professional pursuits, I enjoy collecting vintage pens and iPhones in my leisure time.
+
+I would appreciate it if you could follow me on LinkedIn at https://www.linkedin.com/in/danielmaleyai/ or explore my GPT models at https://gptstore.ai/creators/user-HIN08zsdEJRhI0Up1vxOdnZa.
